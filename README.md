@@ -17,7 +17,7 @@ This project began in **October 2012** as a way to deepen my knowledge of Sales,
 
 The blog ran actively until **December 2013**, and later on with minimal maintenance (mostly hosting and minor plugin updates) until 2022. It was never intended as a commercial project, but it helped me:
 
-- Learn to publish and manage web content professionally
+- Learn to publish and manage web content
 - Practice HTML/CSS modifications
 - Learn how to automate workflows and manage basic SEO
 
@@ -98,7 +98,7 @@ A fully automated **weekly curated newsletter** was created using:
 
 ## 📎 Final Notes and Screenshots Overview
 
-This blog was a **learning playground** for me at the start of my career. Although it’s no longer online, I credit it with teaching me the foundations of:
+This blog was a **learning playground** for me at the start of my sales & business development career. Although it’s no longer online, I credit it with teaching me the foundations of:
 
 - **HTML/CSS editing**
 - **CMS usage and plugin ecosystems**
