@@ -64,10 +64,10 @@ To support idea generation and stay on top of sales trends, I created a **custom
 
 Despite only basic keyword inclusion and minimal metadata work, two key articles ranked on Google's **first page** (in Greek SERPs) for several years (2014–2020):
 
-- [**"Τηλεφωνικές Πωλήσεις" (Telephone Sales)**](https://web.archive.org/web/20161118113211/http://www.proudsalespro.gr/5-symvoules-tilefwnikis-epikoinvnias-gia-na-eisai-koryfaios-stin-douleia-sou/) <br/>
+- [**search query: "Τηλεφωνικές Πωλήσεις" (Telephone Sales)**](https://web.archive.org/web/20161118113211/http://www.proudsalespro.gr/5-symvoules-tilefwnikis-epikoinvnias-gia-na-eisai-koryfaios-stin-douleia-sou/) <br/>
   - ![Article Screenshot](assets/article-telephone-sales.png) <br/>
   <br/>
-- [**"Χειρισμός Αντιρήσεων" (Objection Handling)**](https://web.archive.org/web/20160911050935/http://www.proudsalespro.gr/to-mystiko-gia-epityximeno-xeirismo-antirrhsevn-peri-oikonomikhs-krisis/) <br/>
+- [**search query: "Χειρισμός Αντιρήσεων" (Objection Handling)**](https://web.archive.org/web/20160911050935/http://www.proudsalespro.gr/to-mystiko-gia-epityximeno-xeirismo-antirrhsevn-peri-oikonomikhs-krisis/) <br/>
   - ![Article Screenshot](assets/article-objection-handling.png) <br/>
 
 ### Ad Monetization:
