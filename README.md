@@ -64,10 +64,11 @@ To support idea generation and stay on top of sales trends, I created a **custom
 
 Despite only basic keyword inclusion and minimal metadata work, two key articles ranked on Google's **first page** (in Greek SERPs) for several years (2014–2020):
 
-- ["Τηλεφωνικές Πωλήσεις" (Telephone Sales)](https://web.archive.org/web/20161118113211/http://www.proudsalespro.gr/5-symvoules-tilefwnikis-epikoinvnias-gia-na-eisai-koryfaios-stin-douleia-sou/)
-  - ![Article Screenshot](assets/article-telephone-sales.png)
-- ["Χειρισμός Αντιρήσεων" (Objection Handling)](https://web.archive.org/web/20160911050935/http://www.proudsalespro.gr/to-mystiko-gia-epityximeno-xeirismo-antirrhsevn-peri-oikonomikhs-krisis/)
-  - ![Article Screenshot](assets/article-objection-handling.png)
+- [**"Τηλεφωνικές Πωλήσεις" (Telephone Sales)**](https://web.archive.org/web/20161118113211/http://www.proudsalespro.gr/5-symvoules-tilefwnikis-epikoinvnias-gia-na-eisai-koryfaios-stin-douleia-sou/) <br/>
+  - ![Article Screenshot](assets/article-telephone-sales.png) <br/>
+  <br/>
+- [**"Χειρισμός Αντιρήσεων" (Objection Handling)**](https://web.archive.org/web/20160911050935/http://www.proudsalespro.gr/to-mystiko-gia-epityximeno-xeirismo-antirrhsevn-peri-oikonomikhs-krisis/) <br/>
+  - ![Article Screenshot](assets/article-objection-handling.png) <br/>
 
 ### Ad Monetization:
 
@@ -95,19 +96,7 @@ A fully automated **weekly curated newsletter** was created using:
 
 ---
 
-## 📸 Screenshots Overview
-
-A few representative visual assets have been preserved and are stored in the [`assets/`](assets/) directory of this repository:
-
-- Logo: `logo.png`
-- Homepage: `homepage.png`
-- About page: `about-page.png`
-- Article screenshots (SEO examples)
-- Animated `.gif` cycling through top pages: `proudsalespro-demo.gif`
-
----
-
-## 📎 Final Notes
+## 📎 Final Notes and Screenshots Overview
 
 This blog was a **learning playground** for me at the start of my career. Although it’s no longer online, I credit it with teaching me the foundations of:
 
@@ -116,3 +105,8 @@ This blog was a **learning playground** for me at the start of my career. Althou
 - **SEO, content research & curation**
 - **Workflow automation using APIs (IFTTT, Mailchimp, RSS)**
 - **Content writing and user engagement strategies**
+
+A few representative visual assets have been preserved and are stored in the [`assets/`](assets/) directory of this repository:
+
+![GIF](assets/proudsalespro-demo.gif)
+
