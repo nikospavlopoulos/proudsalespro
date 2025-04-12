@@ -5,7 +5,7 @@
 # ProudSalesPro Blog
 
 **Personal Blog Project • 2012–2022**  
-*A self-hosted **WordPress** blog focused on professional Sales topics, used as a personal branding tool and learning playground for full-stack web publishing, design customization, automation, SEO, and content strategy.*
+*A self-hosted **WordPress** blog focused on professional Sales topics, used as a personal branding tool and learning playground for web publishing, design customization, automation, SEO, and content strategy.*
 
 > ⚠️ **Note**: This project is no longer maintained. The original domain `proudsalespro.gr` expired in 2022. An archived version is available via [Wayback Machine](https://proudpro.gr). or by visiting [proudpro.gr](https://proudpro.gr) (it is set up to redirect to the web archive site)
 
