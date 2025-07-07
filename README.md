@@ -11,7 +11,7 @@
 
 ---
 
-## 🧱 Project Overview & Goals
+## Project Overview & Goals
 
 This project began in **October 2012** as a way to deepen my knowledge of Sales, build my personal brand, and experiment with web technologies.
 
@@ -23,21 +23,21 @@ The blog ran actively until **December 2013**, and later on with minimal mainten
 
 ---
 
-## 🎨 Design & Theming
+## Design & Theme
 
 The site was originally based on a **free minimalistic WordPress theme**, which I adjusted to meet my visual standards using:
 
 - **HTML and CSS** (via WordPress's Customizer and direct file edits)
 - [**Inkscape**](https://en.wikipedia.org/wiki/Inkscape) for logo design (vector graphics)
-- Manual editing of headers, sidebars, and typography
+- Manual editing of headers, sidebars, and theme elements
 
-> ✅ Screenshots:
+> Screenshots:
 > - ![Homepage Screenshot](assets/homepage.png)
 > - ![About Page](assets/about-page.png)
 
 ---
 
-## 🧩 CMS & Hosting Details
+## CMS & Hosting Details
 
 - **Platform**: [**WordPress**](https://en.wikipedia.org/wiki/WordPress) (self-hosted)
 - **Hosting Provider**: [**DreamHost**](https://en.wikipedia.org/wiki/DreamHost) shared hosting
@@ -48,7 +48,7 @@ The site was originally based on a **free minimalistic WordPress theme**, which 
 
 ---
 
-## 📰 Content Writing Strategy
+## Content Writing Strategy
 
 All articles were **written from scratch** between 2012 and 2013 (pre-AI era).
 
@@ -78,7 +78,7 @@ Despite only basic keyword inclusion and minimal metadata work, two key articles
 
 ---
 
-## 🤖 Automation & Newsletter Campaigns
+## Automation & Newsletter Campaigns
 
 A fully automated **weekly curated newsletter** was created using:
 
@@ -96,7 +96,7 @@ A fully automated **weekly curated newsletter** was created using:
 
 ---
 
-## 📎 Final Notes and Screenshots Overview
+## Final Notes and Screenshots Overview
 
 This blog was a **learning playground** for me at the start of my sales & business development career. Although it’s no longer online, I credit it with teaching me the foundations of:
 
